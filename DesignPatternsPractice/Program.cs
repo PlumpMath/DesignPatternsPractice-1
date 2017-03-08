@@ -10,6 +10,8 @@ namespace DesignPatternsPractice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Nanchang!");
+            Console.ReadKey();
         }
     }
 }
