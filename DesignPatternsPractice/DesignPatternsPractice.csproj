@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ObserverPattern\Allen.cs" />
+    <Compile Include="ObserverPattern\Gary.cs" />
+    <Compile Include="ObserverPattern\IPublisher.cs" />
+    <Compile Include="ObserverPattern\ISubscriber.cs" />
+    <Compile Include="ObserverPattern\NytimesNews.cs" />
+    <Compile Include="ObserverPattern\Tom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
