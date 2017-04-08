@@ -51,6 +51,9 @@
     <Compile Include="ObserverPattern\Tom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StrategyPattern\ISortAlgorithm.cs" />
+    <Compile Include="StrategyPattern\MergeSort.cs" />
+    <Compile Include="StrategyPattern\Sort.cs" />
     <Compile Include="TemplateMethodPattern\AbstractStudyStrategy.cs" />
     <Compile Include="TemplateMethodPattern\StudyEnglish.cs" />
     <Compile Include="TemplateMethodPattern\StudyPlan.cs" />
